@@ -1,0 +1,20 @@
+// Place all the styles related to the tasks controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.checkbox {
+  display: flex;
+  list-style: none;
+}
+
+body {
+  font-family: Roboto, sans-serif;
+}
+
+.box-grey {
+  border-style: solid;
+  border-width: 2px;
+  border-color: #5F5F5F;
+  background-color: #F1F1F1;
+  padding: 30px;
+  width: 300px;
+}
